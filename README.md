@@ -4,4 +4,4 @@ This project also includes filtering by Pokémon type and generation, offering a
 The underlying data was preprocessed to ensure accuracy and consistency before visualization.
 
 
-[Tableau Dashboard Link](https://public.tableau.com/app/profile/dominic.matthews/viz/PokemonAnalytics_17506289818630/PokeDexDashboardOverview)
+[Tableau Dashboard Link](https://public.tableau.com/app/profile/dominic.matthews/viz/PokemonAnalytics_17506289818630/PokeDexDashboardOverview)  *(Ctrl+Click to open in a new tab)*
